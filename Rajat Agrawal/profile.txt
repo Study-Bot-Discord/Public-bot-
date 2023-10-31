@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Website</title>
+</head>
+<body>
+    <header>
+        <h1>Profile</h1>
+    </header>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>My name is Rajat Agrawal. I am a student at Jaypee Institute of Information Technology.</p>
+    </section>
+    <section id="tech-stack">
+        <h2>My Tech Stack</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>C</li>
+            <li>C++</li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2023 Rajat Agrawal</p>
+    </footer>
+</body>
+</html>
